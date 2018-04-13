@@ -16,10 +16,10 @@ I recommend the following sources:
   Mozilla Developer Network offers "Getting started with the Web" a series of exercises, articles and instructions to get you started.
 
 2. [freeCodeCamp](https://www.freecodecamp.org/)
-  *freeCodeCamp* it's an interactive website that takes you through the journey of learning from HTML, CSS, JavaScript, jQuery (JavaScript Library), Bootstrap (CSS Library) and more. Here you will be able to learn web development pretty quickly.
+*freeCodeCamp* it's an interactive website that takes you through the journey of learning from HTML, CSS, JavaScript, jQuery (JavaScript Library), Bootstrap (CSS Library) and more. Here you will be able to learn web development pretty quickly.
 
 3. [w3schools](https://www.w3schools.com/)
-  *w3schools* gives you a very good picture of web development, teaching you from HTML, CSS, JavaScript, to SQL, PHP and Bootstrap! (Also some jQuery and Angular). You are able to see the code and also to try it yourself, making changes and giving you the power to change code so you can understand what happens with every single character you modify.
+*w3schools* gives you a very good picture of web development, teaching you from HTML, CSS, JavaScript, to SQL, PHP and Bootstrap! (Also some jQuery and Angular). You are able to see the code and also to try it yourself, making changes and giving you the power to change code so you can understand what happens with every single character you modify.
 
 ### Workflow
 
