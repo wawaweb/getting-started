@@ -18,3 +18,8 @@
   [Setting up Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
   
 [Discord Chat](https://discord.gg/KqvpKaw)
+
+### Reading Materials
+
+1. FrontendMasters' Annual Handbook
+  - [Front-End Development 2018 Handbook](https://github.com/FrontendMasters/front-end-handbook-2018)
